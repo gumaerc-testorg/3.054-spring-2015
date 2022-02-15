@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-054-cellular-solids-structure-properties-and-applications-spring-2015/3d2fc607c7bab843ab67ed40018eb1db_cQpCPzetm3E.pdf
+file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/3d2fc607c7bab843ab67ed40018eb1db_cQpCPzetm3E.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 3d2fc607-c7ba-b843-ab67-ed40018eb1db

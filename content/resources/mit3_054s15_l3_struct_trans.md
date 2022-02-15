@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d9ce34a82c52650c0a73a15fe54bfcfd_MIT3_054S15_L3_Struct_trans.pdf
+file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d9ce34a82c52650c0a73a15fe54bfcfd_MIT3_054S15_L3_Struct_trans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture 3: Structure of Cellular Solids Transcribed \u2013 3.054 / 3.36 Spring\
   \ 2015"

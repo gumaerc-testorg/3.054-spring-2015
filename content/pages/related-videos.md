@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Other Related Videos
 uid: fe17351d-8f11-4476-31e3-67e3d83ef406
 ---

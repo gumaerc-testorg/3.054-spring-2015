@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-054-cellular-solids-structure-properties-and-applications-spring-2015/5d0fa01f4a524ca28005d1d0462f3724_3-054_stat-students.png
+file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/5d0fa01f4a524ca28005d1d0462f3724_3-054_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 3-054_stat-students.png
 uid: 5d0fa01f-4a52-4ca2-8005-d1d0462f3724

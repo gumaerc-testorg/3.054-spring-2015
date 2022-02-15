@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-054-cellular-solids-structure-properties-and-applications-spring-2015/394badceff9b5f4df6674fe7bc4692d1_MIT3_054S15_L6_cork.pdf
+file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/394badceff9b5f4df6674fe7bc4692d1_MIT3_054S15_L6_cork.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture 6: Natural Honeycombs: Cork \u2013 3.054 / 3.36 Spring 2015"
 uid: 394badce-ff9b-5f4d-f667-4fe7bc4692d1

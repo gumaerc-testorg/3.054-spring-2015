@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8ca7e8b9-9969-75ff-7fc2-970462307455
 ---
@@ -55,20 +57,6 @@ Curriculum Information
 ### Offered
 
 Offered every spring.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with three curved rows of desks facing a small table in front of a chalkboard; a lectern is placed on top of the table.]({{< resource_file a6ebad11-2e77-d6dd-3cb4-2ea7d96ec00a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with seating for up to 35 students; the room featured moveable furniture, tablet armchairs, and an LCD projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
