@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b82e5929-27a6-e1e3-cfe1-5bf0f39925a8
 resourcetype: Document
 title: "Lecture 12: Nanofoams Slides \u2013 3.054 / 3.36 Spring 2015"
 uid: 8101f6a2-e9e5-7960-d5e6-2fa550f677a6

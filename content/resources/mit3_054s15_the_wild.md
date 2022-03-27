@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 50a60483-9a10-f753-24a9-31daa158f741
 resourcetype: Document
 title: "Student Project: The \"Wild\" World of Honeycombs: A Comparative Analysis\
   \ of Mammalian Hearing and Cranial Bone Structure \u2013 3.054 / 3.36 Spring 2015"

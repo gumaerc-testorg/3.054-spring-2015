@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b82e5929-27a6-e1e3-cfe1-5bf0f39925a8
 resourcetype: Document
 title: 'Lecture 2: Processing of Cellular Solids - 3.054 / 3.36 Spring 2015'
 uid: aa2a4cc9-47bf-071a-f15f-c651339429e7

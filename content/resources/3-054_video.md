@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 8ca7e8b9-9969-75ff-7fc2-970462307455
 resourcetype: Image
 title: 3-054_video.jpg
 uid: f079f1fa-56af-4c28-2328-2b69ddabcc6b

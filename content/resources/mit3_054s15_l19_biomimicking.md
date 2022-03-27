@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b82e5929-27a6-e1e3-cfe1-5bf0f39925a8
 resourcetype: Document
 title: "Lecture 19: Biomimicking \u2013 3.054 / 3.36 Spring 2015"
 uid: d692e063-bb23-398b-6a9f-f4e17098e6f8

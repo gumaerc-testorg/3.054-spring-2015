@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Natural Honeycombs: Cork; Foams: Linear Elasticity'
 uid: 31719995-22c0-315f-a762-7ebc0e21ea2b
 video_files:

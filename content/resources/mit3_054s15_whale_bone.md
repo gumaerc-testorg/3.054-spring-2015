@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 50a60483-9a10-f753-24a9-31daa158f741
 resourcetype: Document
 title: 'Student Project: Image Study of the Failure Mechanisms in Dry Trabecular Whale
   Bone During Fracture Toughness Tests'
