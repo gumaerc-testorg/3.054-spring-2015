@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features videos on how woodpeckers avoid brain injury.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Woodpecker Videos

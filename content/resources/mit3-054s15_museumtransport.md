@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/6ea83d2658b4afa56f4e0ea9041b4511_MIT3-054S15_museumtransport.jpg
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/6ea83d2658b4afa56f4e0ea9041b4511_MIT3-054S15_museumtransport.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session covers more on energy absorption of foams, and continues with modelling, concluding with a discussion of bicycle helmets and woodpeckers.
 
 **Instructor:** Lorna Gibson
+
+
+

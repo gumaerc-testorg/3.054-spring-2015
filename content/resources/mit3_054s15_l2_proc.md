@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 2.
-file: /media/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/aa2a4cc947bf071af15fc651339429e7_MIT3_054S15_L2_Proc.pdf
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/aa2a4cc947bf071af15fc651339429e7_MIT3_054S15_L2_Proc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Lecture 2: Processing of Cellular Solids - 3.054 / 3.36 Spring 2015'
 uid: aa2a4cc9-47bf-071a-f15f-c651339429e7
 ---
+This is a resource file that contains information regarding lecture 2.
+

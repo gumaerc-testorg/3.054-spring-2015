@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides related videos for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Other Related Videos
@@ -20,6 +21,6 @@ Gibson, Lorna "How I became a Professor." May 2, 2016. YouTube. This video is fr
 
 cplai. "[HagFish Fiber](https://www.youtube.com/watch?v=yCMjfjUFPMQ)." November 4, 2013. YouTube. This excerpt is from NOVA's _Making Stuff Wilder_ and is not covered by our [Creative Commons license](/terms/#cc).
 
-[![Still frame from a video showing a gold sextant on a gray background.]({{< resource_file 6ea83d26-58b4-afa5-6f4e-0ea9041b4511 >}})](http://www.theglobeandmail.com/arts/arts-video/this-end-up-how-the-royal-ontario-museum-transports-ancient-artifacts/article17281558/)
+{{< resource uuid="6ea83d26-58b4-afa5-6f4e-0ea9041b4511" href="http://www.theglobeandmail.com/arts/arts-video/this-end-up-how-the-royal-ontario-museum-transports-ancient-artifacts/article17281558/" >}}
 
 "[This End Up: How the Royal Ontario Museum Transports Ancient Artifacts](http://www.theglobeandmail.com/arts/arts-video/this-end-up-how-the-royal-ontario-museum-transports-ancient-artifacts/article17281558/)." _The Globe and Mail Inc._, March 4, 2014. This video is from Globe and Mail and is not covered by our [Creative Commons license](/terms/#cc).
