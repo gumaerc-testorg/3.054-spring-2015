@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, slides with handwritten
+  notes, and slides with notes transcribed for accessibility.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b82e5929-27a6-e1e3-cfe1-5bf0f39925a8
 ---
@@ -41,7 +46,7 @@ SLIDES WITH TRANSCRIBED NOTES
 Introduction and overview
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction (PDF - 3.2MB)]({{< baseurl >}}/resources/mit3_054s15_l1_intro)
+{{% resource_link dd0f50fb-87a8-bae0-2044-3671eaeb6030 "Lecture 1: Introduction (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No transcription version
@@ -56,10 +61,10 @@ No transcription version
 Processing of cellular solids
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2: Processing (PDF - 2.3MB)]({{< baseurl >}}/resources/mit3_054s15_l2_proc)
+{{% resource_link aa2a4cc9-47bf-071a-f15f-c651339429e7 "Lecture 2: Processing (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Processing (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_054s15_l2_proc_trans)
+{{% resource_link e7ca4cb3-e17a-05b0-ab85-aa335d69f1c1 "Lecture 2: Processing (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,10 +76,10 @@ Processing of cellular solids
 Structure of sellular solids
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 3: Structure (PDF - 3.9MB)]({{< baseurl >}}/resources/mit3_054s15_l3_struct)
+{{% resource_link 03390fd3-66e4-b6b5-f45b-66c17c6e6f95 "Lecture 3: Structure (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Structure (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_054s15_l3_struct_trans)
+{{% resource_link d9ce34a8-2c52-650c-0a73-a15fe54bfcfd "Lecture 3: Structure (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,10 +91,10 @@ Structure of sellular solids
 Honeycombs: In-plane behaviour
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4: Honeycombs: In-plane (PDF - 6.2MB)]({{< baseurl >}}/resources/mit3_054s15_l4_honey)
+{{% resource_link a20e8efd-dd78-cd6f-eaec-61497454a512 "Lecture 4: Honeycombs: In-plane (PDF - 6.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Honeycombs: In-plane (PDF - 3.4MB)]({{< baseurl >}}/resources/mit3_054s15_l4_honey_trans)
+{{% resource_link 179b3dcc-703b-b34a-34e4-490c29c97f35 "Lecture 4: Honeycombs: In-plane (PDF - 3.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,10 +106,10 @@ Honeycombs: In-plane behaviour
 Honeycombs: Out-of-plane behaviour
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 5: Honeycombs: Out-of-plane (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_054s15_l5_outpl)
+{{% resource_link a6e155c9-c597-9038-b73f-3883c3d6defa "Lecture 5: Honeycombs: Out-of-plane (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Honeycombs: Out-of-plane (PDF)]({{< baseurl >}}/resources/mit3_054s15_l5_outpl_trans)
+{{% resource_link 9a61d6b1-3da6-4cbf-e1f6-42e4747951eb "Lecture 5: Honeycombs: Out-of-plane (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,18 +123,18 @@ Natural honeycombs: Wood, cork
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6: Wood (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_054s15_l6_wood)
+{{% resource_link 7596af9c-97f6-9aa0-8052-67a394c7af99 "Lecture 6: Wood (PDF - 4.1MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6: Cork (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_054s15_l6_cork)
+{{% resource_link 394badce-ff9b-5f4d-f667-4fe7bc4692d1 "Lecture 6: Cork (PDF - 4.1MB)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Lecture 6: Wood (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_054s15_l6_wood_trans)
+{{% resource_link d0eefe37-aa37-b064-0827-915f885964b6 "Lecture 6: Wood (PDF - 1.8MB)" %}}
 
-[Lecture 6: Cork (PDF - 3.3MB)]({{< baseurl >}}/resources/mit3_054s15_l6_cork_trans)
+{{% resource_link 3df67bdd-c1c1-38f2-e325-e139ce0109cc "Lecture 6: Cork (PDF - 3.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -143,10 +148,10 @@ Natural honeycombs: Wood, cork
 Foams: Linear elasticity, strength, densification, fracture
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 7: Foams (PDF - 7.1MB)]({{< baseurl >}}/resources/mit3_054s15_l7_foams)
+{{% resource_link 53293bff-cc6f-40b8-9ff7-0e267ccdc2e6 "Lecture 7: Foams (PDF - 7.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Foams (PDF - 6.3MB)]({{< baseurl >}}/resources/mit3_054s15_l7_foams_trans)
+{{% resource_link a7c6b7bd-4d16-424a-eeff-92f1bb277c59 "Lecture 7: Foams (PDF - 6.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,10 +163,10 @@ Foams: Linear elasticity, strength, densification, fracture
 Foams: Mictrostructural design, lattice materials, property charts
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8: Foam design (PDF - 4.2MB)]({{< baseurl >}}/resources/mit3_054s15_l8_foam)
+{{% resource_link 7c39343e-e1ef-673d-d2b4-703d0dcdccbf "Lecture 8: Foam design (PDF - 4.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Foam design (PDF - 3.9MB)]({{< baseurl >}}/resources/mit3_054s15_l8_foam_trans)
+{{% resource_link 37c10901-49c9-94f2-1f17-889b64beab03 "Lecture 8: Foam design (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,10 +178,10 @@ Foams: Mictrostructural design, lattice materials, property charts
 Foams: Thermal properties
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9: Thermal properties (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_054s15_l9_thrml)
+{{% resource_link 1bd14b62-c109-e054-7564-6df7088f683b "Lecture 9: Thermal properties (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Thermal properties (PDF - 2.1MB)]({{< baseurl >}}/resources/mit3_054s15_l9_thrml_trans)
+{{% resource_link 750a9f8f-c26e-f4fb-07bc-3d35145a6e60 "Lecture 9: Thermal properties (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,10 +208,10 @@ No notes
 Trabelcular bone
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11: Trabecular bone (PDF - 3.9MB)]({{< baseurl >}}/resources/mit3_054s15_l11_t_bone)
+{{% resource_link ef2aacea-6962-4b38-701f-e485180b59a9 "Lecture 11: Trabecular bone (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11: Trabecular bone (PDF - 3.7MB)]({{< baseurl >}}/resources/mit3_054s14_l11_t_trans)
+{{% resource_link d28ff3b8-bbba-e19c-66c4-724122cc2cc5 "Lecture 11: Trabecular bone (PDF - 3.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,10 +223,10 @@ Trabelcular bone
 Osteoporosis
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 12: Osteoporosis (PDF - 5.0MB)]({{< baseurl >}}/resources/mit3_054s15_l12_t_bone)
+{{% resource_link "ee69a860-2abe-9de5-5d0b-2618efeeb27e" "Lecture 12: Osteoporosis (PDF - 5.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: Oseoporosis (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_054s14_l12_t_trans)
+{{% resource_link 91b916a5-6249-5412-cd13-3f9604b51f50 "Lecture 12: Oseoporosis (PDF - 4.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,10 +238,10 @@ Osteoporosis
 Tissue engineering scaffolds: Processing and properties
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13: Tissue engineering scaffolds (PDF - 2.5MB)]({{< baseurl >}}/resources/mit3_054s15_l13_tiss)
+{{% resource_link d928b65f-9788-c27c-3d3a-4a7f1fc29bab "Lecture 13: Tissue engineering scaffolds (PDF - 2.5MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Tissue engineering scaffolds (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_054s15_l13_tiss_trans)
+{{% resource_link b67a2ce1-364a-1a4f-a065-aa35c63f3e83 "Lecture 13: Tissue engineering scaffolds (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +253,7 @@ Tissue engineering scaffolds: Processing and properties
 Tissue engineering scaffolds case study: Osteochondral scaffold
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14: Osteochondral scaffold (PDF - 2.7MB)]({{< baseurl >}}/resources/mit3_054s15_l14_osteocho)
+{{% resource_link d78e894e-b656-05e5-4dba-c8b04ecbb55d "Lecture 14: Osteochondral scaffold (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No transcription version
@@ -263,10 +268,10 @@ No transcription version
 Cell-scaffold interactions: attachment, morphology, contraction, migration, differentiation
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 15: Cell-scaffold interactions (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_054s15_l15_cell_scaff)
+{{% resource_link "59dffc52-732d-80b7-6d20-979c56e585f0" "Lecture 15: Cell-scaffold interactions (PDF - 4.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Cell-scaffold interactions (PDF - 3.5MB)]({{< baseurl >}}/resources/mit3_054s15_l15_cell_trans)
+{{% resource_link 48b6bd17-efd7-bceb-16d7-ee0bf25baf1d "Lecture 15: Cell-scaffold interactions (PDF - 3.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,10 +283,10 @@ Cell-scaffold interactions: attachment, morphology, contraction, migration, diff
 Applications: Energy absorption
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16: Energy absorption (PDF - 6.4MB)]({{< baseurl >}}/resources/mit3_054s15_l16_enab)
+{{% resource_link 868c76ea-5dc0-1d91-9309-1cf31a0f60ae "Lecture 16: Energy absorption (PDF - 6.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16: Energy absorption (PDF - 5.1MB)]({{< baseurl >}}/resources/mit3_054s15_l16_enab_trans)
+{{% resource_link d7902e18-aed0-19e6-af06-51e84a55e703 "Lecture 16: Energy absorption (PDF - 5.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,10 +298,10 @@ Applications: Energy absorption
 Applications: Sandwich panels
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17: Sandwich panels (PDF - 4.5MB)]({{< baseurl >}}/resources/mit3_054s15_l17_panel)
+{{% resource_link 47e89389-4d9c-853e-ec6b-65e5726c1fc3 "Lecture 17: Sandwich panels (PDF - 4.5MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lectures 17: Sandwich panels (PDF - 3.2MB)]({{< baseurl >}}/resources/mit3_054s15_l17_trans)
+{{% resource_link 17788388-b717-f5b5-9002-81db3ebf15e3 "Lectures 17: Sandwich panels (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,18 +321,18 @@ Density gradients
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 18: Natural sandwich structures (PDF - 1.6MB)]({{< baseurl >}}/resources/mit3_054_s15_l18_nat)
+{{% resource_link 2c24b850-df88-611f-b0dc-6877d167a50b "Lecture 18: Natural sandwich structures (PDF - 1.6MB)" %}}
 
-[Lecture 18: Density gradients (PDF - 7.8MB)]({{< baseurl >}}/resources/mit3_054s15_l18_density)
+{{% resource_link a051495e-5bc5-9d80-a9db-ccd5fc78be30 "Lecture 18: Density gradients (PDF - 7.8MB)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Lecture 18: Natural sandwich structures (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_054s15_l18_nat_trans)
+{{% resource_link ef56b8a2-1884-6980-d39e-9a6bf079a6b2 "Lecture 18: Natural sandwich structures (PDF - 1.5MB)" %}}
 
-[Lecture 18: Density gradients (PDF - 5.5MB)]({{< baseurl >}}/resources/mit3_054s15_l18_dens_trans)
+{{% resource_link 8ae7c583-c870-6504-f867-64b058b494c2 "Lecture 18: Density gradients (PDF - 5.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -347,7 +352,7 @@ Biomimicking
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19: Biomimicking (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_054s15_l19_biomimicking)
+{{% resource_link d692e063-bb23-398b-6a9f-f4e17098e6f8 "Lecture 19: Biomimicking (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No transcription version
@@ -401,10 +406,10 @@ Guest lecture: Prof. Mike Demkowicz
 {{< tdopen >}}
 
 
-[Nanofoams notes (PDF)]({{< baseurl >}}/resources/mit3_054s15_l12_nano_notes)  
+{{% resource_link 89ebb384-dfa2-c90b-d734-10026a05c9b2 "Nanofoams notes (PDF)" %}}  
 (Courtesy of M. J. Demkowicz. Used with permission.)
 
-[Nanofoams slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit3_054s15_l12_nano_slides)  
+{{% resource_link 8101f6a2-e9e5-7960-d5e6-2fa550f677a6 "Nanofoams slides (PDF - 2.6MB)" %}}  
 (Courtesy of M. J. Demkowicz. Used with permission.)
 
 
@@ -422,7 +427,7 @@ Guest lecture: Dr. Nihan Tuncer
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Cellular materials (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_054s15_l13_cellular)  
+{{% resource_link 9c77f74d-23a1-3238-df08-5776016c1d64 "Cellular materials (PDF - 2.0MB)" %}}  
 (Courtesy of Nihan Tuncer. Used with permission.)
 {{< tdclose >}}
 

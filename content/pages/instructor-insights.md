@@ -1,24 +1,26 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8ca7e8b9-9969-75ff-7fc2-970462307455
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _3.054 Cellular Solids: Structure, Properties and Applications_ as it was taught by Dr. Lorna Gibson in Spring 2014.
 
 This course spotlights the structure and mechanical behavior of honeycombs and foams; students apply models for the behavior of cellular solids to applications in engineering and medicine and to natural materials.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Learn about the structure of cellular materials and to understand how that structure can be related to mechanical or thermal properties of the materials.
-*   Gain an appreciation of the broad range of cellular materials, and how similar principles can be applied to all of these materials.
+- Learn about the structure of cellular materials and to understand how that structure can be related to mechanical or thermal properties of the materials.
+- Gain an appreciation of the broad range of cellular materials, and how similar principles can be applied to all of these materials.
 
 ### Possibilities for Further Study/Careers
 
@@ -26,54 +28,39 @@ Academic and industry careers, including biomedical engineering, orthopedics, os
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-[![An image of instructor Lorna Gibson taken from an interview in which she is seated at a table in her office explaining a concept from the course.]({{< resource_file f079f1fa-56af-4c28-2328-2b69ddabcc6b >}})]({{< baseurl >}}/resources/faculty-introduction-and-background)
+{{< resource uuid="f079f1fa-56af-4c28-2328-2b69ddabcc6b" href_uuid="f44fa79a-eca9-fc8f-b2bf-f6acf1da63cd" >}}
 
-_In the following short videos, Professor Lorna Gibson describes various aspects of how she taught _3.054 Cellular Solids_._
+ 
 
-*   [Faculty Introduction and Background]({{< baseurl >}}/resources/faculty-introduction-and-background)
-*   [Project Examples]({{< baseurl >}}/resources/project-examples)
-*   [Project Logistics and Support]({{< baseurl >}}/resources/project-logistics-and-support)
-*   [Lecture Preparation]({{< baseurl >}}/resources/lecture-preparation)
-*   [Role of Images in the Course]({{< baseurl >}}/resources/role-of-images-in-the-course)
-*   [Unique Aspects of the Course]({{< baseurl >}}/resources/unique-aspects-of-the-course)
+_In the following short videos, Professor Lorna Gibson describes various aspects of how she taught_ 3.054 Cellular Solids.
 
-Curriculum Information
-----------------------
+- {{% resource_link f44fa79a-eca9-fc8f-b2bf-f6acf1da63cd "Faculty Introduction and Background" %}}
+- {{% resource_link f6bf0ac2-a2f8-3ee9-23e8-0ff20aa472af "Project Examples" %}}
+- {{% resource_link 62f0943d-f5d5-1e8d-5522-a42cca51aad5 "Project Logistics and Support" %}}
+- {{% resource_link 8256a893-05a0-2cea-5e09-ff9d4d35b5b8 "Lecture Preparation" %}}
+- {{% resource_link e87e7f4c-a1cd-a633-9c24-c6195874bcc4 "Role of Images in the Course" %}}
+- {{% resource_link 0e8be639-dad9-67f2-27c9-787df8aa65b9 "Unique Aspects of the Course" %}}
+
+## Curriculum Information
 
 ### Prerequisites
 
-[_3.032 Mechanical Behavior of Materials_](/courses/3-032-mechanical-behavior-of-materials-fall-2007/)
+[_3.032 Mechanical Behavior of Materials_](/courses/3-032-mechanical-behavior-of-materials-fall-2007)
 
 ### Requirements Satisfied
 
-*   Restricted Elective ![](/images/educator/icon-question-rest.png)
-*   Can be applied toward a [Bachelor of Science in Materials Science and Engineering](http://web.mit.edu/catalog/degre.engin.ch3.html#three) but is not required.
+- Restricted Elective ![](/images/educator/icon-question-rest.png)
+- Can be applied toward a [Bachelor of Science in Materials Science and Engineering](https://dmse.mit.edu/undergraduate/programs/3) but is not required.
 
 ### Offered
 
 Offered every spring.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with three curved rows of desks facing a small table in front of a chalkboard; a lectern is placed on top of the table.]({{< resource_file a6ebad11-2e77-d6dd-3cb4-2ea7d96ec00a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with seating for up to 35 students; the room featured moveable furniture, tablet armchairs, and an LCD projector.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -81,10 +68,11 @@ The students' grades were based on the following activities:
 - 30% Project
 - 60% Tests (2)
 
-Student Information
--------------------
+## Student Information
 
-![17 students took this course when it was offered in 2014.]({{< resource_file 5d0fa01f-4a52-4ca2-8005-d1d0462f3724 >}})
+### Enrollment
+
+17 students
 
 ### Breakdown by Year
 
@@ -100,21 +88,18 @@ Students must have taken a course in solid mechanics or mechanical behavior of m
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 25 sessions total.
-*   Mostly lecture.
+- Met 2 times per week for 1.5 hours per session; 25 sessions total.
+- Mostly lecture.
 
-Out of Class
-------------
+### Out of Class
 
-*   Readings
-*   [Project work]({{< baseurl >}}/pages/projects)
-*   Problem sets
-*   Preparation for tests
+- Readings
+- {{% resource_link 50a60483-9a10-f753-24a9-31daa158f741 "Project work" %}}
+- Problem sets
+- Preparation for tests
