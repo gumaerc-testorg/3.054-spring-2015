@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session covers various ways of processing foams including metal, carbon, ceramics and glass foams, and the structure of cellular materials.
 
 **Instructor:** Lorna Gibson
-
-
 

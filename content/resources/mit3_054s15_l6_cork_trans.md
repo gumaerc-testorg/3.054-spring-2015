@@ -5,6 +5,7 @@ file: /courses/3-054-cellular-solids-structure-properties-and-applications-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture 6: Natural Honeycombs: Cork Transcribed \u2013 3.054 / 3.36 Spri
 uid: 3df67bdd-c1c1-38f2-e325-e139ce0109cc
 ---
 This is a resource file that contains information regarding lecture 6.
-

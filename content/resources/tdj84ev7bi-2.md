@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/7a3b174e34ec53b985b7e4832a318afb_tdj84EV7BI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

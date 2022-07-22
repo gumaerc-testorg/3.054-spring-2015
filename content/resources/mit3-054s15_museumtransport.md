@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Still frame from a video showing a gold sextant on a gray background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Related Videos
 parent_type: CourseSection

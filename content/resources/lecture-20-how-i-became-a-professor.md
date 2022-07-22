@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Professor Gibson discusses her personal career path and how it led her to MIT. This video is from YouTube and is not covered by our [Creative Commons license](/terms/#cc).
 
 More MIT Faculty Talks can be found here: "[Getting from Here to There](http://chancellor.mit.edu/news/faculty-talks-getting-from-here-to-there)."
-
-
 

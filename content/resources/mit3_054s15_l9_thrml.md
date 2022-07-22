@@ -5,6 +5,7 @@ file: /courses/3-054-cellular-solids-structure-properties-and-applications-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 9: Thermal Notes \u2013 3.054 / 3.36 Spring 2015"
 uid: 1bd14b62-c109-e054-7564-6df7088f683b
 ---
 This is a resource file that contains information regarding lecture 9.
-

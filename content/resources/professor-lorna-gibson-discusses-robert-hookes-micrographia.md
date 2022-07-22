@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Other Related Videos
@@ -24,6 +25,4 @@ video_metadata:
 ---
 
 In the Harvard University Botany Library, Professor Lorna Gibson looks at Robert Hooke's seminal work, _Micrographia, Or Some Physiological Descriptions of Minute Bodies Made By Magnifying Glasses_ and compares his illustrations of cork, feather, a flea, and a fly's eye with current SEM images.
-
-
 

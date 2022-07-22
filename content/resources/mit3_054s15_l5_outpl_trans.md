@@ -5,6 +5,7 @@ file: /courses/3-054-cellular-solids-structure-properties-and-applications-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture 5 Honeycombs: Out-of-plane Behaviour Transcribed \u2013 3.054 / 
 uid: 9a61d6b1-3da6-4cbf-e1f6-42e4747951eb
 ---
 This is a resource file that contains information regarding lecture 5.
-

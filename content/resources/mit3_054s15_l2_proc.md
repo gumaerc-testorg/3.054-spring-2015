@@ -5,6 +5,7 @@ file: /courses/3-054-cellular-solids-structure-properties-and-applications-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 2: Processing of Cellular Solids - 3.054 / 3.36 Spring 2015'
 uid: aa2a4cc9-47bf-071a-f15f-c651339429e7
 ---
 This is a resource file that contains information regarding lecture 2.
-

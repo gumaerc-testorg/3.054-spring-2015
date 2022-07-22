@@ -5,6 +5,7 @@ file: /courses/3-054-cellular-solids-structure-properties-and-applications-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 12: Osteoporosis \u2013 3.054 / 3.36 Spring 2015"
 uid: 91b916a5-6249-5412-cd13-3f9604b51f50
 ---
 This is a resource file that contains information regarding lecture 12.
-
