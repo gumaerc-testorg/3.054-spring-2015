@@ -31,3 +31,33 @@ leftnav:
   name: Related Videos
   url: /pages/related-videos
   weight: 80
+- identifier: f44fa79a-eca9-fc8f-b2bf-f6acf1da63cd
+  name: Faculty Introduction and Background
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/faculty-introduction-and-background
+  weight: 10
+- identifier: f6bf0ac2-a2f8-3ee9-23e8-0ff20aa472af
+  name: Project Examples
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/project-examples
+  weight: 20
+- identifier: 62f0943d-f5d5-1e8d-5522-a42cca51aad5
+  name: Project Logistics and Support
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/project-logistics-and-support
+  weight: 30
+- identifier: 8256a893-05a0-2cea-5e09-ff9d4d35b5b8
+  name: Lecture Preparation
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/lecture-preparation
+  weight: 40
+- identifier: e87e7f4c-a1cd-a633-9c24-c6195874bcc4
+  name: Role of Images in the Course
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/role-of-images-in-the-course
+  weight: 50
+- identifier: 0e8be639-dad9-67f2-27c9-787df8aa65b9
+  name: Unique Aspects of the Course
+  parent: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  url: /resources/unique-aspects-of-the-course
+  weight: 60
