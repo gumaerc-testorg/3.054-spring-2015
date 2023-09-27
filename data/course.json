@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2015",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -45,8 +46,11 @@
     "Lecture Notes",
     "Projects with Examples",
     "Lecture Videos",
-    "Other Video"
+    "Other Video",
+    "Course Introduction",
+    "Instructor Insights"
   ],
-  "site_uid": "474e4f6f-79b6-4dfa-9d93-4568cbc1af5d",
+  "site_uid": "fb93c01a-dc5d-4fe2-8cd9-a428b9211f7d",
+  "site_short_id": "3.054-spring-2015",
   "title": "Course Metadata"
 }
