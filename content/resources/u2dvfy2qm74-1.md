@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/9f3d56a88e04502403301684b1a0d2db_U2DvFy2qM74.pdf
+file_size: 18630
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
