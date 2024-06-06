@@ -13,7 +13,7 @@ Professor Lorna Gibson discusses Robert Hooke's *Micrographia* (above). This vi
 
 {{< resource uuid="92b591e8-d708-f1c0-1377-6bf829451f3c" >}}
 
-Gibson, Lorna "How I became a Professor." May 2, 2016. YouTube. This video is from YouTube and is not covered by our [Creative Commons license](/terms/#cc). (More MIT Faculty Talks can be found here: "[Getting from Here to There](http://chancellor.mit.edu/news/faculty-talks-getting-from-here-to-there)." Office of the Chancellor, MIT.)
+Gibson, Lorna "How I became a Professor." May 2, 2016. YouTube. This video is from YouTube and is not covered by our [Creative Commons license](/terms/#cc). 
 
  
 

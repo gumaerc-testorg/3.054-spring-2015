@@ -11,7 +11,7 @@ uid: 8ca7e8b9-9969-75ff-7fc2-970462307455
 ---
 ## Course Overview
 
-This page focuses on the course _3.054 Cellular Solids: Structure, Properties and Applications_ as it was taught by Dr. Lorna Gibson in Spring 2014.
+This page focuses on the course *3.054 Cellular Solids: Structure, Properties and Applications* as it was taught by Dr. Lorna Gibson in Spring 2014.
 
 This course spotlights the structure and mechanical behavior of honeycombs and foams; students apply models for the behavior of cellular solids to applications in engineering and medicine and to natural materials.
 
@@ -34,25 +34,25 @@ Academic and industry careers, including biomedical engineering, orthopedics, os
 
  
 
-_In the following short videos, Professor Lorna Gibson describes various aspects of how she taught_ 3.054 Cellular Solids.
+*In the following short videos, Professor Lorna Gibson describes various aspects of how she taught* 3.054 Cellular Solids.
 
-- {{% resource_link f44fa79a-eca9-fc8f-b2bf-f6acf1da63cd "Faculty Introduction and Background" %}}
-- {{% resource_link f6bf0ac2-a2f8-3ee9-23e8-0ff20aa472af "Project Examples" %}}
-- {{% resource_link 62f0943d-f5d5-1e8d-5522-a42cca51aad5 "Project Logistics and Support" %}}
-- {{% resource_link 8256a893-05a0-2cea-5e09-ff9d4d35b5b8 "Lecture Preparation" %}}
-- {{% resource_link e87e7f4c-a1cd-a633-9c24-c6195874bcc4 "Role of Images in the Course" %}}
-- {{% resource_link 0e8be639-dad9-67f2-27c9-787df8aa65b9 "Unique Aspects of the Course" %}}
+- {{% resource_link "f44fa79a-eca9-fc8f-b2bf-f6acf1da63cd" "Faculty Introduction and Background" %}}
+- {{% resource_link "f6bf0ac2-a2f8-3ee9-23e8-0ff20aa472af" "Project Examples" %}}
+- {{% resource_link "62f0943d-f5d5-1e8d-5522-a42cca51aad5" "Project Logistics and Support" %}}
+- {{% resource_link "8256a893-05a0-2cea-5e09-ff9d4d35b5b8" "Lecture Preparation" %}}
+- {{% resource_link "e87e7f4c-a1cd-a633-9c24-c6195874bcc4" "Role of Images in the Course" %}}
+- {{% resource_link "0e8be639-dad9-67f2-27c9-787df8aa65b9" "Unique Aspects of the Course" %}}
 
 ## Curriculum Information
 
 ### Prerequisites
 
-[_3.032 Mechanical Behavior of Materials_](/courses/3-032-mechanical-behavior-of-materials-fall-2007)
+[*3.032 Mechanical Behavior of Materials*](/courses/3-032-mechanical-behavior-of-materials-fall-2007)
 
 ### Requirements Satisfied
 
 - Restricted Elective ![](/images/educator/icon-question-rest.png)
-- Can be applied toward a [Bachelor of Science in Materials Science and Engineering](https://dmse.mit.edu/undergraduate/programs/3) but is not required.
+- Can be applied toward a [Bachelor of Science in Materials Science and Engineering](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/) but is not required.
 
 ### Offered
 
@@ -100,6 +100,6 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### Out of Class
 
 - Readings
-- {{% resource_link 50a60483-9a10-f753-24a9-31daa158f741 "Project work" %}}
+- {{% resource_link "50a60483-9a10-f753-24a9-31daa158f741" "Project work" %}}
 - Problem sets
 - Preparation for tests

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding lecture
   18 transcription. '
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8ae7c583c8706504f86764b058b494c2_MIT3_054S15_L18_dens_trans.pdf
+file_size: 5760716
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

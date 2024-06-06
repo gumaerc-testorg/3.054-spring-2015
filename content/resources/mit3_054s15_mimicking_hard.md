@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/6e43a4803d77e2a9adbbd9db6bf035e5_MIT3_054S15_Mimicking_Hard.pdf
+file_size: 1154208
 file_type: application/pdf
 learning_resource_types:
 - Projects
