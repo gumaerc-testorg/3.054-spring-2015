@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 1.
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/dd0f50fb87a8bae020443671eaeb6030_MIT3_054S15_L1_intro.pdf
+file_size: 3392322
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
