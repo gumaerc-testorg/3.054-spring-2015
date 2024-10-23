@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 19.
-file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d692e063bb23398b6a9ff4e17098e6f8_MIT3_054S15_L19_Biomimicking.pdf
+file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d692e063bb23398b6a9ff4e17098e6f8_MIT3_054S15_L19_Biomimicking.pdf
 file_size: 1883013
 file_type: application/pdf
 learning_resource_types:
