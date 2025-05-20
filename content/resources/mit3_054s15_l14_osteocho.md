@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 14.
-file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d78e894eb65605e54dbac8b04ecbb55d_MIT3_054S15_L14_osteocho.pdf
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/d78e894eb65605e54dbac8b04ecbb55d_MIT3_054S15_L14_osteocho.pdf
 file_size: 2883056
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8383b3c12d5b30b74a0ea1368619feeb_MIT3_054S15_Whale_Bone.pdf
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8383b3c12d5b30b74a0ea1368619feeb_MIT3_054S15_Whale_Bone.pdf
 file_size: 5300753
 file_type: application/pdf
 learning_resource_types:

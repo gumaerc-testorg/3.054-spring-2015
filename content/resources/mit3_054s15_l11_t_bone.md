@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 11.
-file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/ef2aacea69624b38701fe485180b59a9_MIT3_054S15_L11_T_bone.pdf
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/ef2aacea69624b38701fe485180b59a9_MIT3_054S15_L11_T_bone.pdf
 file_size: 4104797
 file_type: application/pdf
 learning_resource_types:
