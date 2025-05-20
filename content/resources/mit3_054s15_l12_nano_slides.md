@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 12.
-file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8101f6a2e9e57960d5e62fa550f677a6_MIT3_054S15_L12_nano_slides.pdf
+file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8101f6a2e9e57960d5e62fa550f677a6_MIT3_054S15_L12_nano_slides.pdf
 file_size: 2778172
 file_type: application/pdf
 learning_resource_types:
