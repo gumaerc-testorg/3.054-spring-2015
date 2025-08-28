@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 15.
-file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/59dffc52732d80b76d20979c56e585f0_MIT3_054S15_L15_Cell_scaff.pdf
+file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/59dffc52732d80b76d20979c56e585f0_MIT3_054S15_L15_Cell_scaff.pdf
 file_size: 4304829
 file_type: application/pdf
 learning_resource_types:

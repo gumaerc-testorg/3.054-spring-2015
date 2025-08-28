@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/fa7dec40734b5fa6a7e89c0c805755a1_Btl0HCfSPuU.vtt
+file: /ol-ocw-studio-app/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/fa7dec40734b5fa6a7e89c0c805755a1_Btl0HCfSPuU.vtt
 file_size: 73264
 file_type: application/x-subrip
 learning_resource_types: []
