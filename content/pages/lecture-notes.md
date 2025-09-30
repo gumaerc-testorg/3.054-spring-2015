@@ -13,11 +13,11 @@ The lecture notes for this course have been transcribed for accessibility. The h
 
 Some of the images originally contained in these notes have been excluded due to copyright restrictions. To see more of the images, please refer to the following books:
 
-*   Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with [Google Books](http://books.google.com/books?id=IySUr5sn4N8C&pg=PAfrontcover)\]
-*   Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with [Google Books](http://books.google.com/books?id=AKxiS4AKpyEC&pg=PAfrontcover)\]
-*   Ashby, M. F., A. G. Evans, et al. _Metal Foams: A Design Guide_. Society of Automotive Engineers Incorporated, 2000. ISBN: 9780768005554. \[Preview with [Google Books](http://books.google.com/books?id=C0daIBo6LjgC&pg=PAfrontcover)\]
+*   Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with {{% resource_link "732bba19-a309-470e-9dd2-2f0b86974f26" "Google Books" %}}\]
+*   Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with {{% resource_link "e9852ee9-4b46-40a0-81fb-03aafa460900" "Google Books" %}}\]
+*   Ashby, M. F., A. G. Evans, et al. _Metal Foams: A Design Guide_. Society of Automotive Engineers Incorporated, 2000. ISBN: 9780768005554. \[Preview with {{% resource_link "179ffd89-6a94-4747-8ead-25e4423b5775" "Google Books" %}}\]
 
-Because the following materials are primarily visual, viewing these files in a web browser is not recommended. We suggest that you download and view these files with [Adobe Reader](https://get.adobe.com/reader/) or another PDF reader in order to see them as intended.
+Because the following materials are primarily visual, viewing these files in a web browser is not recommended. We suggest that you download and view these files with {{% resource_link "497bad57-2665-4057-a60d-ff14c1d295d0" "Adobe Reader" %}} or another PDF reader in order to see them as intended.
 
 {{< tableopen >}}
 {{< theadopen >}}

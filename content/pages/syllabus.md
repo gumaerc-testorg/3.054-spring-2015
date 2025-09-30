@@ -27,12 +27,12 @@ In this subject, we review the structure and mechanical behavior of honeycombs a
 Text
 ----
 
-Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with [Google Books](http://books.google.com/books?id=IySUr5sn4N8C&pg=PAfrontcover)\]
+Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with {{% resource_link "732bba19-a309-470e-9dd2-2f0b86974f26" "Google Books" %}}\]
 
 Additional Reference
 --------------------
 
-Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with [Google Books](http://books.google.com/books?id=AKxiS4AKpyEC&pg=PAfrontcover)\]
+Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with {{% resource_link "e9852ee9-4b46-40a0-81fb-03aafa460900" "Google Books" %}}\]
 
 Grading
 -------
@@ -83,7 +83,7 @@ Project
 Academic Integrity
 ------------------
 
-You may discuss problem sets with other students but the work you submit must be your own. For more information, see the [MIT website on academic integrity](http://integrity.mit.edu), which has the Handbook on Academic Integrity.
+You may discuss problem sets with other students but the work you submit must be your own. For more information, see the {{% resource_link "b18fcf91-0b4b-46c2-ace7-ccc01a07e9f7" "MIT website on academic integrity" %}}, which has the Handbook on Academic Integrity.
 
 Topics
 ------
