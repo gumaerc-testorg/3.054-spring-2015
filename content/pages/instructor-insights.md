@@ -52,7 +52,7 @@ Academic and industry careers, including biomedical engineering, orthopedics, os
 ### Requirements Satisfied
 
 - Restricted Elective ![](/images/educator/icon-question-rest.png)
-- Can be applied toward a [Bachelor of Science in Materials Science and Engineering](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/) but is not required.
+- Can be applied toward a {{% resource_link "2f70d816-465f-4bbf-a7bd-8f6d32958853" "Bachelor of Science in Materials Science and Engineering" %}} but is not required.
 
 ### Offered
 
